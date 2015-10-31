@@ -1,0 +1,27 @@
+.main{
+	padding: 0 20%;
+}
+	
+li {
+    list-style-type: none;
+	padding: 2px;
+}
+ul {
+    padding-left: 0;
+}
+.fieldset{
+	margin-top: 10px;
+}
+legend{
+	font-weight: bold;
+}
+table {
+    margin: 20px auto 0 auto;
+}
+.table2 {
+	width: 600px;
+}
+.footer {
+	text-align: center;
+	margin: 20px;
+}
